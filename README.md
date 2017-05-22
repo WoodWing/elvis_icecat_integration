@@ -6,6 +6,8 @@ The Icecat panel plugin links product specs from icecat.com to assets stored in 
 
 This sample plugin demonstrates how easy it is to show external asset information in a panel.
 
+![show product information from Icecat](https://github.com/WoodWing/elvis_icecat_integration/blob/master/icecat-integration.gif "show product information from Icecat")
+
 ## Prerequisites
 
 The integration requires:
