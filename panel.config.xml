@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<info>
+		<version>
+			<pluginVersion>1.0</pluginVersion>
+			<requiresAtLeast>5.25.0.0</requiresAtLeast>
+		</version>
+		<description>Icecat product info plugin</description>
+	</info>
+	<panel>
+		<url>${pluginUrl}/index.html</url>
+		
+		<iconUrl>${pluginUrl}/icon.jpg</iconUrl>
+
+		<panelLocations>
+			<panelLocation id="mainRightPanel" order="1"/>
+		</panelLocations>
+
+		<requiredRoles/>
+
+		<messages>
+			<entries locale="en_US">
+				<entry key="title">Icecat product info</entry>
+				<entry key="button.tooltip">Show product information from Icecat</entry>
+			</entries>
+		</messages>
+
+	</panel>
+</plugin>
